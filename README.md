@@ -5,13 +5,9 @@ Proyek ini adalah aplikasi berbasis web sederhana yang dibuat menggunakan **PHP*
 ## 📁 Struktur Folder
 pertemuan5/
 ├── dashboard.php
-
 ├── login.php
-
 ├── autentikasi.php
-
 ├── mahasiswa/
-
 │ ├── read.php
 │ ├── add.php
 │ ├── edit.php
@@ -29,5 +25,4 @@ pertemuan5/
 ├── koneksi2.php
 └── assets/
 └── img/ 
-
 
