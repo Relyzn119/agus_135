@@ -64,10 +64,6 @@ pertemuan5/
 - HTML & CSS
 - (Opsional) JavaScript untuk animasi tambahan
 
-## 📷 Screenshot
-
-![Dashboard Preview](assets/img/dashboard-preview.png)
-
 ## 📦 Cara Menjalankan
 
 1. Clone repository ini:
