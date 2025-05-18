@@ -54,7 +54,7 @@ pertemuan5/
 - CRUD data mahasiswa dan dosen
 - Desain modern dengan Bootstrap tema gelap
 - Animasi hover pada gambar dan elemen interaktif
-- Visi dan misi Universitas (contoh: Binus University)
+- Visi dan misi Universitas
 
 ## 🛠️ Teknologi
 
@@ -62,7 +62,6 @@ pertemuan5/
 - MySQL/MariaDB
 - Bootstrap 5
 - HTML & CSS
-- (Opsional) JavaScript untuk animasi tambahan
 
 ## 📦 Cara Menjalankan
 
