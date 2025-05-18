@@ -47,3 +47,30 @@ pertemuan5/
 
 └── img/ 
 
+## 🚀 Fitur
+
+- Autentikasi login
+- Halaman dashboard dengan navigasi ke data mahasiswa dan dosen
+- CRUD data mahasiswa dan dosen
+- Desain modern dengan Bootstrap tema gelap
+- Animasi hover pada gambar dan elemen interaktif
+- Visi dan misi Universitas (contoh: Binus University)
+
+## 🛠️ Teknologi
+
+- PHP
+- MySQL/MariaDB
+- Bootstrap 5
+- HTML & CSS
+- (Opsional) JavaScript untuk animasi tambahan
+
+## 📷 Screenshot
+
+![Dashboard Preview](assets/img/dashboard-preview.png)
+
+## 📦 Cara Menjalankan
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/username/nama-repo.git
+
